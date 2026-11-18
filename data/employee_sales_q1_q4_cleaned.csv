@@ -1,0 +1,6 @@
+Employee_ID,Employee_Name,Department,Transaction_Date,Q1_Sales_IDR,Q2_Sales_IDR,Q3_Sales_IDR,Q4_Sales_IDR,Annual_Average_IDR,Performance_Status
+EMP-01,Andi Pratama,Sales,2024-01-15,45000000,52000000,48000000,61000000,51500000,Target Achieved
+EMP-02,Siti Rahmawati,Sales,2024-02-10,62000000,58000000,65000000,70000000,63750000,Target Achieved
+EMP-03,Budi Santoso,B2B Corporate,2024-03-05,38000000,41000000,39000000,44000000,40500000,Needs Improvement
+EMP-04,Dewi Lestari,B2B Corporate,2024-03-22,55000000,60000000,59000000,68000000,60500000,Target Achieved
+EMP-05,Rizky Maulana,Retail,2024-04-19,30000000,35000000,33000000,37000000,33750000,Needs Improvement
